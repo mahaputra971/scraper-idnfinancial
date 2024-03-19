@@ -1,4 +1,6 @@
-selenium
 virtualenv
 webdriver_manager
 requests_html
+schedule
+sqlalchemy
+PyMySQL
